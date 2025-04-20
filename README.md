@@ -1,4 +1,4 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Sea Monster Games*
 
 Submitted by: **Eduardo Goncalvez**
 
@@ -24,10 +24,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/XYnHC6R' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/WSWsBd1' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
+MacOS Screen recorder
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
